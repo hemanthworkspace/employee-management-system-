@@ -16,9 +16,10 @@ GUI Library: Tkinter
 IDE/Tools: VsCode, MySQL Workbench
 ## Screenshots
 1)Login Page
-<img width="1036" height="770" alt="image" src="https://github.com/user-attachments/assets/a756cb65-7bf3-4e51-8c3c-2694695f34d0" />
+<img width="1036" height="770" alt="Screenshot 2025-12-24 194154" src="https://github.com/user-attachments/assets/6bbba5c6-3ea3-44fd-9f1c-518944ec59b9" />
+
 2)Application Interface
-<img width="1071" height="831" alt="image" src="https://github.com/user-attachments/assets/4c4068c2-9de3-4cd5-99ab-d90fcf5e26cd" />
+<img width="1071" height="831" alt="Screenshot 2025-12-24 235505" src="https://github.com/user-attachments/assets/1af640e1-aba8-4eed-aeb6-64eee0f9505f" />
 
 
 ## Installation and Setup
